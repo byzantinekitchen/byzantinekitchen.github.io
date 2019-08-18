@@ -4,9 +4,28 @@
   
   <url>
     <loc>byzantinekitchen.github.io/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>byzantinekitchen.github.io/post/pineapplecurry/</loc>
+    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>byzantinekitchen.github.io/tags/</loc>
+    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>byzantinekitchen.github.io/tags/quinoa/</loc>
+    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -28,12 +47,6 @@
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>byzantinekitchen.github.io/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

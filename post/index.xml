@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Notre-Dame de Paris</title>
+    <title>Articles on Byzantine Kitchen</title>
     <link>byzantinekitchen.github.io/post/</link>
-    <description>Recent content in Articles on Notre-Dame de Paris</description>
+    <description>Recent content in Articles on Byzantine Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="byzantinekitchen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pineapple Curry</title>
+      <link>byzantinekitchen.github.io/post/pineapplecurry/</link>
+      <pubDate>Sat, 04 May 2019 21:04:46 +0200</pubDate>
+      
+      <guid>byzantinekitchen.github.io/post/pineapplecurry/</guid>
+      <description>Difficulty: easy Time: 50 mins Ingredients:  Coconut oil Shallots Garlic Thai red curry paste turmeric ginger Sweet potatoes Carrots Peppers Coconut milk Soy sauce Pineapple Kale Tofu Coriander Lemon Peanuts Chickpeas Quinoa  Instructions Start with a huge pot, put some coconut oil in and add the garlic/shallots (a lot) until they&amp;rsquo;re starting to fry. Add the turmeric/ginger/red curry paste, mix and so on. Add the potatoes/carrots/peppers and mix so that the spices are spread out properly, give it a bit of time for the flavour to absorb.</description>
+    </item>
     
     <item>
       <title>Chapter VI: Esmeralda</title>
