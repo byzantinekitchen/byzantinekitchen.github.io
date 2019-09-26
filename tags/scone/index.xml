@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scone on Byzantine Kitchen</title>
+    <link>/tags/scone/</link>
+    <description>Recent content in scone on Byzantine Kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2019 21:04:46 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/scone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scones and Jam</title>
+      <link>/post/sconesandjam/</link>
+      <pubDate>Wed, 04 Sep 2019 21:04:46 +0200</pubDate>
+      
+      <guid>/post/sconesandjam/</guid>
+      <description> Difficulty: very easy Time: 5 minutes Ingredients Scones: Ingredients Jam: Instructions: </description>
+    </item>
+    
+  </channel>
+</rss>

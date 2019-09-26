@@ -4,9 +4,134 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/mangosalad/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/artichokepestorisotto/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/renlentils/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/sconesandjam/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/almondpanacotta/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chickpea/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chocolate/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/desert/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/egg/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jam/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lentils/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mango/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/no-added-sugar/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pesto/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/risotto/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/salad/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scone/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/skyr/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/yogurt/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -24,19 +149,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/quinoa/</loc>
-    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/salad/</loc>
     <lastmod>2019-05-04T21:04:46+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -46,6 +159,11 @@
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/halloumipaprika/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
