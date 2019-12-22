@@ -10,13 +10,6 @@
   </url>
   
   <url>
-    <loc>https://byzantinekitchen.github.io/post/sconesandjam/</loc>
-    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://byzantinekitchen.github.io/post/halloumipaprika/</loc>
     <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,13 +24,6 @@
   </url>
   
   <url>
-    <loc>https://byzantinekitchen.github.io/post/artichokepestorisotto/</loc>
-    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://byzantinekitchen.github.io/post/renlentils/</loc>
     <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -45,7 +31,14 @@
   </url>
   
   <url>
-    <loc>https://byzantinekitchen.github.io/post/almondpanacotta/</loc>
+    <loc>https://byzantinekitchen.github.io/post/stirfry/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://byzantinekitchen.github.io/post/strawberrychocolate/</loc>
     <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -82,7 +75,13 @@
   </url>
   
   <url>
-    <loc>https://byzantinekitchen.github.io/tags/jam/</loc>
+    <loc>https://byzantinekitchen.github.io/tags/gluten-free/</loc>
+    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://byzantinekitchen.github.io/tags/halloumi/</loc>
     <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,31 +99,7 @@
   </url>
   
   <url>
-    <loc>https://byzantinekitchen.github.io/tags/no-added-sugar/</loc>
-    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://byzantinekitchen.github.io/tags/pesto/</loc>
-    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://byzantinekitchen.github.io/tags/risotto/</loc>
-    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://byzantinekitchen.github.io/tags/salad/</loc>
-    <lastmod>2019-09-04T21:04:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://byzantinekitchen.github.io/tags/scone/</loc>
     <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -139,20 +114,6 @@
     <loc>https://byzantinekitchen.github.io/tags/yogurt/</loc>
     <lastmod>2019-09-04T21:04:46+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://byzantinekitchen.github.io/post/curry1/</loc>
-    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://byzantinekitchen.github.io/post/pineapplecurry/</loc>
-    <lastmod>2019-05-04T21:04:46+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
